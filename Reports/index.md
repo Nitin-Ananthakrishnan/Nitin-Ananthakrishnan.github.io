@@ -23,3 +23,5 @@
 3D visualization
 1. [AFT pressure bulk head & Horizontal stabilizers and vertical stabilizer](IMG01.pdf)
 2. [T-tail & RAT](IMG02.pdf)
+
+Disclaimer: These documents are independent educational analyses based on publicly available secondary sources. They are not official accident investigation reports and should not be treated as authoritative
