@@ -1,7 +1,7 @@
 Air crash investigation reports
 1. [Air Canada 143](001.pdf)
 2. [Turkish Airline flight 1951](002.pdf)
-3. [Birgenair flight 301](00.3.pdf)
+3. [Birgenair flight 301](003.pdf)
 4. [Flash airline Flight 604](004.pdf)
 5. [Northwest Airlines Flight 255](005.pdf)
 6. [Colgan Air Flight 3407](006.pdf)
