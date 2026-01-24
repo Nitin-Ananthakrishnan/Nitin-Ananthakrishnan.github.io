@@ -22,6 +22,7 @@ Air crash investigation reports
 21. [Eastern Air Lines Flight 401](021.pdf)
 22. [British Airways Flight 009](022.pdf)
 23. [American Airlines Flight 96](023.pdf)
+24. [Chalk’s Ocean Airways 101](024.pdf)
 
 3D visualization
 1. [AFT pressure bulk head & Horizontal stabilizers and vertical stabilizer](IMG01.pdf)
