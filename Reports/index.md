@@ -26,6 +26,7 @@ Air crash investigation reports
 25. [Swissair 111](025.pdf)
 26. [Aero Peru 603](026.pdf)
 27. [Air Transat flight 236](027.pdf)
+28. [Air France 296](028.pdf)
 
 3D visualization
 1. [AFT pressure bulk head & Horizontal stabilizers and vertical stabilizer](IMG01.pdf)
